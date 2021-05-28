@@ -9,7 +9,6 @@ public class Post {
 	
 	private static SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 
-
 	private Date moment;
 	private String title;
 	private String content;
